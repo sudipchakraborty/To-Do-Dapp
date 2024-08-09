@@ -1,0 +1,11 @@
+.MainWrapper
+{
+    font-size:large;
+    display: flex;
+      
+    align-items: center;
+    background-color: rgb(27, 4, 58);
+    color: gray;
+    height: 200px;  
+    
+}
